@@ -1,0 +1,12 @@
+{
+	"name": "ddbcpool",
+	"authors": [
+		"cedretaber"
+	],
+	"dependencies": {
+		"ddbc": "~>0.3.2"
+	},
+	"description": "A connection pool provider for ddbc.",
+	"copyright": "Copyright © 2017, cedretaber",
+	"license": "MIT"
+}
